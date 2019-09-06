@@ -1,1 +1,1 @@
-"# FibonacciSequence" 
+"# Fibonacci Sequence Generator" 
